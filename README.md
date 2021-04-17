@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8C66AA&height=200&section=header&text=Hyeon%20U%20genie&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a98bc1&height=200&section=header&text=Hyeon%20U%20genie🧞&fontSize=80&fontColor=5a3e70&animation=twinkling)
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6"/>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Nodejs-339933"/>
   <img src="https://img.shields.io/badge/-Vuejs-4FC08D"/>
