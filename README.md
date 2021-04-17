@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6"/>&nbsp
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow"/>&nbsp
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/-Nodejs-339933"/>
   <img src="https://img.shields.io/badge/-Vuejs-4FC08D"/>
