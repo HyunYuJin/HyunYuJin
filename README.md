@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=U%20genie&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8C66AA&height=200&section=header&text=Hyeon%20U%20genie&fontSize=90&animation=twinkling)
 
 <h3 align="center">📚 Technology Stack 📚</h3>
 <p align="center">
@@ -23,4 +23,4 @@
   </a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=8C66AA&height=150&section=footer)
