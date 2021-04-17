@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a98bc1&height=200&section=header&text=Hyeon%20U%20genie🧞&fontSize=80&fontColor=5a3e70&animation=twinkling)
 
 <h3 align="center">🪔 My Tech Stack 🪔</h3>
-<p align="center"> Techs that I've used at least twice </p>
+<p align="center"> Techs that I've used at least once </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
