@@ -6,17 +6,20 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-Nodejs-339933"/>
-  <img src="https://img.shields.io/badge/-Vuejs-4FC08D"/>
-  <img src="https://img.shields.io/badge/-Reactjs-4FC08D"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-Native-3655FF?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-Vuetify-1867C0"/>&nbsp
-  <img src="https://img.shields.io/badge/-Git-black"/>&nbsp
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
 
 <p align="center">
   <a href="https://hyunyujin.github.io/">
-    <img src="https://img.shields.io/badge/Tech%20Blog-purple?style=flat-square&logo=Github&logoColor=white&link=https://hyunyujin.github.io/"/>
+    <img src="https://img.shields.io/badge/Tech%20Blog-purple?style=flat-square&logo=Jekyll&logoColor=white&link=https://hyunyujin.github.io/"/>
   </a>&nbsp
   <a href="mailto:gusdbwls9772@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusdbwls9772@gmail.com"/>
