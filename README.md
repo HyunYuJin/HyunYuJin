@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a98bc1&height=200&section=header&text=Hyeon%20U%20genie🧞&fontSize=80&fontColor=5a3e70&animation=twinkling)
 
-<h3 align="center">🪔My Tech Stack🪔</h3>
+<h3 align="center">🪔 My Tech Stack 🪔</h3>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
@@ -21,7 +21,7 @@
 </p>
 
 <br><br><br>
-<h3 align="center">🐥About Me🐥</h3>
+<h3 align="center">🐥 About Me 🐥</h3>
 <p align="center">
   <a href="https://hyunyujin.github.io/">
     <img src="https://img.shields.io/badge/Tech%20Blog-purple?style=flat-square&logo=Jekyll&logoColor=white&link=https://hyunyujin.github.io/"/>
