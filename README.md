@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a98bc1&height=200&section=header&text=Hyeon%20U%20genie&fontSize=80&fontColor=5a3e70&animation=twinkling)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23DDD1E6&title_bg=%2395849E&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Yu Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunYuJin&hide=contribs,prs&show_icons=true&theme=dracula)](https://github.com/HyunYuJin/github-readme-stats)
+[![Yu Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunYuJin&hide=contribs,stars&show_icons=true&theme=dracula)](https://github.com/HyunYuJin/github-readme-stats)
+
 
 ### 🪔 My Tech Stack
 Techs that I've used at least once
