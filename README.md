@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=a98bc1&height=200&section=header&text=Hyeon%20U%20genie🧞&fontSize=80&fontColor=5a3e70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a98bc1&height=200&section=header&text=Hyeon%20U%20genie&fontSize=80&fontColor=5a3e70&animation=twinkling)
 
 <h3 align="center">🪔 My Tech Stack 🪔</h3>
 <p align="center"> Techs that I've used at least once </p>
