@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a98bc1&height=200&section=header&text=Hyeon%20U%20genie🧞&fontSize=80&fontColor=5a3e70&animation=twinkling)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunYuJin&count_bg=%23A98BC1&title_bg=%23908896&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<h3 align="center">📚 Technology Stack 📚</h3>
+<h3 align="center">🪔My Tech Stack🪔</h3>
+Techs that I've used at least twice
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
@@ -25,6 +24,12 @@
   </a>&nbsp
   <a href="mailto:gusdbwls9772@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusdbwls9772@gmail.com"/>
+  </a>
+</p>
+
+<p align="right">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunYuJin&count_bg=%23A98BC1&title_bg=%23908896&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
 </p>
 
