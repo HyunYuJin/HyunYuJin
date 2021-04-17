@@ -8,7 +8,7 @@
   <br>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React-Native-3655FF?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ReactNative-3655FF?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
